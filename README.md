@@ -1,5 +1,5 @@
 <a name="readme-head"></a>
-<h1 align="center"> Collection of all Concept Based Models </h1> 
+<h1 align="center"> Awesome collection of all Concept Based Models </h1> 
 
 <p align="center">
     🚧🚧🚧 <b>THIS IS UNDER CONSTRUCTION</b>🚧🚧🚧
