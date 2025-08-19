@@ -29,7 +29,7 @@
 </p>
 
 ## 📖 CBM Frameworks
-### 👨‍⚕️ CBMs
+### CBMs
 Standard CBM framework where the data is annotated by a human expert.
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
