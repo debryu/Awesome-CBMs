@@ -2,7 +2,7 @@
 <h1 align="center"> Awesome collection of all Concept Based Models </h1> 
 
 <p align="center">
-    ✨<b> Curated collection of papers and resources on latest advances on Concept based models.</b>✨
+    ✨<b> Curated collection of papers and resources on latest advances of Concept based models.</b>✨
 </p>
 
 <details open>
