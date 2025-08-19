@@ -79,6 +79,6 @@ The framework combines a Visual-Language model to generate concept annotations.
 ## 👩‍🏫 Awesome Workshops & Talks
 - [title](link) [Workshop/Talk] + detail + venue + year
 
-## Awesome Metrics & Benchmarks
+## 📊 Awesome Metrics & Benchmarks
 
 ## 🗂️ Awesome Datasets
