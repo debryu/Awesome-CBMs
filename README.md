@@ -1,5 +1,5 @@
 <a name="readme-head"></a>
-<h1 align="center"> Awesome collection of all Concept Based Models [![Awesome](figures/awesome.svg)]([https://github.com/debryu/awesome-explanatory-supervision](https://github.com/debryu/Awesome-CBMs))</h1> 
+<h1 align="center"> Awesome collection of all Concept Based Models [![Awesome](figures/awesome.svg)](https://github.com/debryu/awesome-cbms)(https://github.com/debryu/Awesome-CBMs))</h1> 
 
 <p align="center">
     ✨<b> Curated collection of papers and resources on latest advances of Concept based models.</b> ✨
