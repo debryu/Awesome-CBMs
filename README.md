@@ -15,13 +15,22 @@
 |[**GlanceNets: Interpretabile, Leak-proof Concept-based Models**](https://arxiv.org/pdf/2205.15612) <br> | NeurIPS | 2022 | [Github](https://github.com/ema-marconato/glancenet) |
 |[**Concept Bottleneck Model**](https://proceedings.mlr.press/v119/koh20a) <br> | ICML | 2020 | [Github](https://github.com/yewsiang/ConceptBottleneck) |
 
+## 🔬 Discussions and Analysis
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+|[**GlanceNets: Interpretabile, Leak-proof Concept-based Models**](https://arxiv.org/pdf/2205.15612) <br> | NeurIPS | 2022 | [Github](https://github.com/ema-marconato/glancenet) |
+|[**Concept Bottleneck Model**](https://proceedings.mlr.press/v119/koh20a) <br> | ICML | 2020 | [Github](https://github.com/yewsiang/ConceptBottleneck) |
+
+
+## 📖 Surveys
+### Survey on Concept Based Models
+- [Title](link)
+
 
 ## 👩‍🏫 Awesome Workshops & Talks
 - [title](link) [Workshop/Talk] + detail + venue + year
 
-## 🔍 Survey 
-### Survey on Concept Based Models
-- [Title](link)
+
 
 
 ## 📊 Awesome Metrics & Benchmarks
