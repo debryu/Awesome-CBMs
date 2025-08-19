@@ -8,16 +8,16 @@
 <details open>
 <summary>🗂️ <font size="4"><b>Table of Contents</b></font></summary>
 <ol>
-<li><a href="#-cbm-frameworks">📖 CBM Frameworks</a></li>
+<li><a href="#-cbm-frameworks">📖 CBM Framework Papers</a></li>
   <ul>
-    <li><a href="#-cbms">👨‍⚕️ CBMs</a></li>
+    <li><a href="#cbms">👨‍⚕️ CBMs</a></li>
     <li><a href="#-vlm-cbms">🤖 VLM-CBMs</a></li>
   </ul>
-<li><a href="#-discussions-and-analysis">🔬 Discussions and Analysis</a></li>
+<li><a href="#-discussions-and-analysis">🔬 Discussions and Analysis Papers</a></li>
 <li><a href="#-awesome-surveys">📖 Awesome Surveys</a></li>
 <li><a href="#-awesome-workshops--talks">👩‍🏫 Awesome Workshops & Talks</a></li>
 <li><a href="#-awesome-metrics--benchmarks">📊 Awesome Metrics & Benchmarks</a></li>
-<li><a href="#awesome-datasets">🗂️ Awesome Datasets</a></li>
+<li><a href="#-awesome-datasets">🗂️ Awesome Datasets</a></li>
 </ol>
 </details>
 
