@@ -19,7 +19,7 @@
 |  Title  |     Focus     |  Venue  |   Date   |   Code   |
 |:--------|:-------------:|:-------:|:--------:|:--------:|
 |[Do Concept Bottleneck Models learn as intended](https://arxiv.org/abs/2105.04289) <br> | Alignment | ICLR | 2021 | - |
-|[Promises and Pitfalls of Black-Box Concept Learning Models](https://arxiv.org/pdf/2106.13314.pdf) | Entanglement, Leakage | <br> | - | 2021 | - |
+|[Promises and Pitfalls of Black-Box Concept Learning Models](https://arxiv.org/pdf/2106.13314.pdf)  <br> | Entanglement, Leakage | - | 2021 | - |
 
 
 ## 📖 Surveys
