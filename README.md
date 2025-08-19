@@ -17,7 +17,7 @@
 <li><a href="#-awesome-surveys">📖 Awesome Surveys</a></li>
 <li><a href="#-awesome-workshops--talks">👩‍🏫 Awesome Workshops & Talks</a></li>
 <li><a href="#-awesome-metrics--benchmarks">📊 Awesome Metrics & Benchmarks</a></li>
-<li><a href="#awesome-datasets">🗂️ Awesome Datasets</a></li>
+<li><a href="#--awesome-datasets">🗂️ Awesome Datasets</a></li>
 </ol>
 </details>
 
