@@ -10,7 +10,8 @@
 
 
 ## 📖 CBM Frameworks
-### CBM (with 👨‍⚕️ annotated datasets)
+### 👨‍⚕️ CBM
+Standard CBM framework where the data is annotated by a human expert.
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[Interactive Concept Bottleneck Models](https://ojs.aaai.org/index.php/AAAI/article/view/25736) <br> | AAAI | 2023 | - |
@@ -20,6 +21,7 @@
 | <br> |  |  | Github |
 
 ### 🤖 VLM-CBM 
+The framework combines a Visual-Language model to generate concept annotations.
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification](https://arxiv.org/pdf/2211.11158.pdf) <br> | IEEE/CVF | 2023 | [Github](https://github.com/YueYANG1996/LaBo) |
