@@ -1,5 +1,5 @@
 <a name="readme-head"></a>
-<h1 align="center"> Collection of all Concept Bottleneck Models </h1> 
+<h1 align="center"> Collection of all Concept Based Models </h1> 
 
 <p align="center">
     🚧🚧🚧 <b>THIS IS UNDER CONSTRUCTION</b>🚧🚧🚧
@@ -13,6 +13,7 @@
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**GlanceNets: Interpretabile, Leak-proof Concept-based Models**](https://arxiv.org/pdf/2205.15612) <br> | NeurIPS | 2022 | [Github](https://github.com/ema-marconato/glancenet) |
+|[**Concept Bottleneck Model**](https://proceedings.mlr.press/v119/koh20a) <br> | ICML | 2020 | [Github](https://github.com/yewsiang/ConceptBottleneck) |
 
 
 ## 👩‍🏫 Awesome Workshops & Talks
