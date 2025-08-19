@@ -2,12 +2,14 @@
 <h1 align="center"> Awesome collection of all Concept Based Models </h1> 
 
 <p align="center">
+    ✨<b> Curated collection of papers and resources on latest advances on Concept based models.</b>✨
+</p>
+<p align="center">
     🚧🚧🚧 <b>THIS IS UNDER CONSTRUCTION</b>🚧🚧🚧
 </p>
 <p align="center">
-    ✨<b> Curated collection of papers and resources on latest advances on Concept based models.</b>✨
+    Do not hesitate to submit a pull request if you want to add a reference or any correction!
 </p>
-
 
 ## 📖 CBM Frameworks
 ### 👨‍⚕️ CBM
