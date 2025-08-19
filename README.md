@@ -3,15 +3,10 @@
 
 <p align="center">
     🚧🚧🚧 <b>THIS IS UNDER CONSTRUCTION</b>🚧🚧🚧
+</p>
+<p align="center">
     ✨<b> Curated collection of papers and resources on latest advances on Concept based models.</b>✨
 </p>
-
-## 👩‍🏫 Awesome Workshops & Talks
-- [title](link) [Workshop/Talk] + detail + venue + year
-
-## 🔍 Survey 
-### Survey on Concept Based Models
-- [Title](link)
 
 
 ## 📖 CBM Frameworks
@@ -19,6 +14,13 @@
 |:--------|:--------:|:--------:|:--------:|
 |[**GlanceNets: Interpretabile, Leak-proof Concept-based Models**](https://arxiv.org/pdf/2205.15612) <br> | NeurIPS | 2022 | [Github](https://github.com/ema-marconato/glancenet) |
 
+
+## 👩‍🏫 Awesome Workshops & Talks
+- [title](link) [Workshop/Talk] + detail + venue + year
+
+## 🔍 Survey 
+### Survey on Concept Based Models
+- [Title](link)
 
 
 ## 📊 Awesome Metrics & Benchmarks
