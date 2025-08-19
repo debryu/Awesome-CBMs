@@ -16,10 +16,10 @@
 |[**Concept Bottleneck Model**](https://proceedings.mlr.press/v119/koh20a) <br> | ICML | 2020 | [Github](https://github.com/yewsiang/ConceptBottleneck) |
 
 ## 🔬 Discussions and Analysis
-|  Title  |   Venue  |   Date   |   Code   |
-|:--------|:--------:|:--------:|:--------:|
-|[**GlanceNets: Interpretabile, Leak-proof Concept-based Models**](https://arxiv.org/pdf/2205.15612) <br> | NeurIPS | 2022 | [Github](https://github.com/ema-marconato/glancenet) |
-|[**Concept Bottleneck Model**](https://proceedings.mlr.press/v119/koh20a) <br> | ICML | 2020 | [Github](https://github.com/yewsiang/ConceptBottleneck) |
+|  Title  |     Focus     |  Venue  |   Date   |   Code   |
+|:--------|:-------------:|:-------:|:--------:|:--------:|
+|[Do Concept Bottleneck Models learn as intended](https://arxiv.org/abs/2105.04289) <br> | Alignment | ICLR | 2021 | - |
+|[Promises and Pitfalls of Black-Box Concept Learning Models](https://arxiv.org/pdf/2106.13314.pdf) | Entanglement, Leakage | <br> | - | 2021 | [Github](https://github.com/yewsiang/ConceptBottleneck) |
 
 
 ## 📖 Surveys
