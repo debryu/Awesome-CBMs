@@ -10,8 +10,8 @@
 <ol>
 <li><a href="#-cbm-frameworks">📖 CBM Frameworks</a></li>
   <ul>
-    <li><a href="#cbms">👨‍⚕️ CBMs</a></li>
-    <li><a href="#vlm-cbms">🤖 VLM-CBMs</a></li>
+    <li><a href="#-cbms">👨‍⚕️ CBMs</a></li>
+    <li><a href="#-vlm-cbms">🤖 VLM-CBMs</a></li>
   </ul>
 <li><a href="#-discussions-and-analysis">🔬 Discussions and Analysis</a></li>
 <li><a href="#-awesome-surveys">📖 Awesome Surveys</a></li>
@@ -78,9 +78,6 @@ The framework combines a Visual-Language model to generate concept annotations.
 
 ## 👩‍🏫 Awesome Workshops & Talks
 - [title](link) [Workshop/Talk] + detail + venue + year
-
-
-
 
 ## 📊 Awesome Metrics & Benchmarks
 
