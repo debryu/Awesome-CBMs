@@ -10,15 +10,21 @@
 
 
 ## 📖 CBM Frameworks
+### Standard (with 👨‍⚕️ annotated datasets)
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
-| [Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification](https://arxiv.org/pdf/2211.11158.pdf) <br> | IEEE/CVF | 2023 | [Github](https://github.com/YueYANG1996/LaBo) |
-| [Label Free Concept Bottleneck Models](https://arxiv.org/pdf/2304.06129.pdf) <br> | ICLR | 2023 | [Github](https://github.com/Trustworthy-ML-Lab/Label-free-CBM) |
 |[Interactive Concept Bottleneck Models](https://ojs.aaai.org/index.php/AAAI/article/view/25736) <br> | AAAI | 2023 | - |
 | [Post-hoc Concept Bottleneck Models](https://arxiv.org/pdf/2205.15480.pdf) <br> | ICLR | 2022 | [Github](https://github.com/mertyg/post-hoc-cbm) |
 |[**GlanceNets: Interpretabile, Leak-proof Concept-based Models**](https://arxiv.org/pdf/2205.15612) <br> | NeurIPS | 2022 | [Github](https://github.com/ema-marconato/glancenet) |
 |[**Concept Bottleneck Model**](https://proceedings.mlr.press/v119/koh20a) <br> | ICML | 2020 | [Github](https://github.com/yewsiang/ConceptBottleneck) |
 | <br> |  |  | Github |
+
+### 🤖 VLM-CBM 
+| [Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification](https://arxiv.org/pdf/2211.11158.pdf) <br> | IEEE/CVF | 2023 | [Github](https://github.com/YueYANG1996/LaBo) |
+| [Label Free Concept Bottleneck Models](https://arxiv.org/pdf/2304.06129.pdf) <br> | ICLR | 2023 | [Github](https://github.com/Trustworthy-ML-Lab/Label-free-CBM) |
+| <br> |  |  | Github |
+
+
 
 ## 🔬 Discussions and Analysis
 |  Title  |     Focus     |  Venue  |   Date   |   Code   |
