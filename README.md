@@ -4,6 +4,23 @@
 <p align="center">
     ✨<b> Curated collection of papers and resources on latest advances on Concept based models.</b>✨
 </p>
+
+<details open>
+<summary>🗂️ <font size="4"><b>Table of Contents</b></font></summary>
+<ol>
+<li><a href="#-cmb-frameworks">📖 CBM Frameworks</a></li>
+  <ul>
+    <li><a href="#-cbms">👨‍⚕️ CBMs</a></li>
+    <li><a href="#-vlm--cbms">🤖 VLM-CBMs</a></li>
+  </ul>
+<li><a href="#-discussions-and-analysis">🔬 Discussions and Analysis</a></li>
+<li><a href="#-awesome-surveys">📖 Awesome Surveys</a></li>
+<li><a href="#-awesome-workshops--talks">👩‍🏫 Awesome Workshops & Talks</a></li>
+<li><a href="#-awesome-metrics--benchmarks">📊 Awesome Metrics & Benchmarks</a></li>
+<li><a href="#-awesome-datasets">🗂️ Awesome Datasets</a></li>
+</ol>
+</details>
+
 <p align="center">
     🚧🚧🚧 <b>THIS IS UNDER CONSTRUCTION</b>🚧🚧🚧
 </p>
@@ -12,7 +29,7 @@
 </p>
 
 ## 📖 CBM Frameworks
-### 👨‍⚕️ CBM
+### 👨‍⚕️ CBMs
 Standard CBM framework where the data is annotated by a human expert.
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -24,7 +41,7 @@ Standard CBM framework where the data is annotated by a human expert.
 |[**Concept Bottleneck Model**](https://proceedings.mlr.press/v119/koh20a) <br> | ICML | 2020 | [Github](https://github.com/yewsiang/ConceptBottleneck) |
 | <br> |  |  | Github |
 
-### 🤖 VLM-CBM 
+### 🤖 VLM-CBMs
 The framework combines a Visual-Language model to generate concept annotations.
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -56,7 +73,6 @@ The framework combines a Visual-Language model to generate concept annotations.
 - [Title](link) + year
 - [Concept-based Explainable Artificial Intelligence: A Survey
 ](https://arxiv.org/pdf/2312.12936.pdf) 2023
-
 - [A Comprehensive Survey on Self-Interpretable Neural Networks](https://arxiv.org/pdf/2501.15638) 2025
 
 
