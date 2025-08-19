@@ -81,4 +81,4 @@ The framework combines a Visual-Language model to generate concept annotations.
 
 ## 📊 Awesome Metrics & Benchmarks
 
-## 🗃️ Awesome Datasets
+## 📊 Awesome Datasets
