@@ -14,6 +14,8 @@
 Standard CBM framework where the data is annotated by a human expert.
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [TREE-BASED LEAKAGE INSPECTION AND CONTROL IN CONCEPT BOTTLENECK MODELS](https://arxiv.org/pdf/2410.06352) <br> | - | 2024 | [Github](https://github.com/ai4ai-lab/mixed-cbm-with-trees) |
+
 |[Interactive Concept Bottleneck Models](https://ojs.aaai.org/index.php/AAAI/article/view/25736) <br> | AAAI | 2023 | - |
 |[Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off](https://arxiv.org/pdf/2209.09056) <br> | NeurIPS | 2022 | [Github](https://github.com/mateoespinosa/cem/) |
 |[**GlanceNets: Interpretabile, Leak-proof Concept-based Models**](https://arxiv.org/pdf/2205.15612) <br> | NeurIPS | 2022 | [Github](https://github.com/ema-marconato/glancenet) |
@@ -25,6 +27,8 @@ Standard CBM framework where the data is annotated by a human expert.
 The framework combines a Visual-Language model to generate concept annotations.
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [DCBM: Data-Efficient Visual Concept Bottleneck Models](https://arxiv.org/pdf/2412.11576) <br> | ICML | 2025 | [Github](https://github.com/KathPra/DCBM) |
+| [Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery](https://arxiv.org/pdf/2407.14499) <br> | ECCV | 2024 | [Github](https://github.com/neuroexplicit-saar/Discover-then-Name) |
 | [Incremental Residual Concept Bottleneck Models](https://arxiv.org/pdf/2404.08978) <br> | CVPR | 2024 | [Github](https://github.com/HelloSCM/Res-CBM) |
 | [VLG-CBM: Training Concept Bottleneck Models with Vision-Language Guidance](https://arxiv.org/pdf/2408.01432) <br> | NeurIPS | 2024 | [Github](https://github.com/Trustworthy-ML-Lab/VLG-CBM) |
 | [Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification](https://arxiv.org/pdf/2211.11158.pdf) <br> | CVPR | 2023 | [Github](https://github.com/YueYANG1996/LaBo) |
@@ -51,6 +55,8 @@ The framework combines a Visual-Language model to generate concept annotations.
 - [Title](link) + year
 - [Concept-based Explainable Artificial Intelligence: A Survey
 ](https://arxiv.org/pdf/2312.12936.pdf) 2023
+
+- [A Comprehensive Survey on Self-Interpretable Neural Networks](https://arxiv.org/pdf/2501.15638) 2025
 
 
 ## 👩‍🏫 Awesome Workshops & Talks
