@@ -15,8 +15,10 @@ Standard CBM framework where the data is annotated by a human expert.
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[Interactive Concept Bottleneck Models](https://ojs.aaai.org/index.php/AAAI/article/view/25736) <br> | AAAI | 2023 | - |
-| [Post-hoc Concept Bottleneck Models](https://arxiv.org/pdf/2205.15480.pdf) <br> | ICLR | 2022 | [Github](https://github.com/mertyg/post-hoc-cbm) |
+|[Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off](https://arxiv.org/pdf/2209.09056) <br> | NeurIPS | 2022 | [Github](https://github.com/mateoespinosa/cem/) |
 |[**GlanceNets: Interpretabile, Leak-proof Concept-based Models**](https://arxiv.org/pdf/2205.15612) <br> | NeurIPS | 2022 | [Github](https://github.com/ema-marconato/glancenet) |
+| [Post-hoc Concept Bottleneck Models](https://arxiv.org/pdf/2205.15480.pdf) <br> | ICLR | 2022 | [Github](https://github.com/mertyg/post-hoc-cbm) |
+
 |[**Concept Bottleneck Model**](https://proceedings.mlr.press/v119/koh20a) <br> | ICML | 2020 | [Github](https://github.com/yewsiang/ConceptBottleneck) |
 | <br> |  |  | Github |
 
@@ -24,6 +26,7 @@ Standard CBM framework where the data is annotated by a human expert.
 The framework combines a Visual-Language model to generate concept annotations.
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [VLG-CBM: Training Concept Bottleneck Models with Vision-Language Guidance](https://arxiv.org/pdf/2408.01432) <br> | NeurIPS | 2024 | [Github](https://github.com/Trustworthy-ML-Lab/VLG-CBM) |
 | [Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification](https://arxiv.org/pdf/2211.11158.pdf) <br> | IEEE/CVF | 2023 | [Github](https://github.com/YueYANG1996/LaBo) |
 | [Label Free Concept Bottleneck Models](https://arxiv.org/pdf/2304.06129.pdf) <br> | ICLR | 2023 | [Github](https://github.com/Trustworthy-ML-Lab/Label-free-CBM) |
 | <br> |  |  | Github |
@@ -38,6 +41,7 @@ The framework combines a Visual-Language model to generate concept annotations.
 |[IS DISENTANGLEMENT ALL YOU NEED? COMPARING CONCEPT-BASED & DISENTANGLEMENT APPROACHES](https://arxiv.org/pdf/2104.06917) <br> | Entanglement | ICLR | 2021 | [Github](https://github.com/dmitrykazhdan/concept-based-xai) |
 |[Do Concept Bottleneck Models learn as intended](https://arxiv.org/abs/2105.04289) <br> | Alignment | ICLR | 2021 | - |
 |[Promises and Pitfalls of Black-Box Concept Learning Models](https://arxiv.org/pdf/2106.13314.pdf)  <br> | Entanglement, Leakage | - | 2021 | - |
+| [ON COMPLETENESS-AWARE CONCEPT-BASED EXPLANATIONS IN DEEP NEURAL NETWORKS](https://arxiv.org/pdf/1910.07969) <br> | Completeness | NeurIPS | 2020 | [Github](https://github.com/chihkuanyeh/concept_exp) |
 | <br> |  |  |  | Github |
 
 
