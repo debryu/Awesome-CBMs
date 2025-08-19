@@ -8,7 +8,7 @@
 <details open>
 <summary>🗂️ <font size="4"><b>Table of Contents</b></font></summary>
 <ol>
-<li><a href="#-cmb-frameworks">📖 CBM Frameworks</a></li>
+<li><a href="#-cbm-frameworks">📖 CBM Frameworks</a></li>
   <ul>
     <li><a href="#-cbms">👨‍⚕️ CBMs</a></li>
     <li><a href="#-vlm--cbms">🤖 VLM-CBMs</a></li>
