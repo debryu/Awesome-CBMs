@@ -48,6 +48,7 @@ The framework combines a Visual-Language model to generate concept annotations.
 | [Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery](https://arxiv.org/pdf/2407.14499) <br> | ECCV | 2024 | [Github](https://github.com/neuroexplicit-saar/Discover-then-Name) |
 | [Incremental Residual Concept Bottleneck Models](https://arxiv.org/pdf/2404.08978) <br> | CVPR | 2024 | [Github](https://github.com/HelloSCM/Res-CBM) |
 | [VLG-CBM: Training Concept Bottleneck Models with Vision-Language Guidance](https://arxiv.org/pdf/2408.01432) <br> | NeurIPS | 2024 | [Github](https://github.com/Trustworthy-ML-Lab/VLG-CBM) |
+| [CLIP-QDA: An Explainable Concept Bottleneck Model](https://arxiv.org/pdf/2312.00110) <br> | TMLR | 2024 | - |
 | [Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification](https://arxiv.org/pdf/2211.11158.pdf) <br> | CVPR | 2023 | [Github](https://github.com/YueYANG1996/LaBo) |
 | [Label Free Concept Bottleneck Models](https://arxiv.org/pdf/2304.06129.pdf) <br> | ICLR | 2023 | [Github](https://github.com/Trustworthy-ML-Lab/Label-free-CBM) |
 | <br> |  |  | Github |
