@@ -41,8 +41,10 @@ Standard CBM framework where the data is annotated by a human expert.
 | [**GlanceNets: Interpretabile, Leak-proof Concept-based Models**](https://arxiv.org/pdf/2205.15612) <br> | NeurIPS | 2022 | [Github](https://github.com/ema-marconato/glancenet) |
 | [Post-hoc Concept Bottleneck Models](https://arxiv.org/pdf/2205.15480.pdf) <br> | ICLR | 2022 | [Github](https://github.com/mertyg/post-hoc-cbm) |
 | [Entropy-based Logic Explanations of Neural Networks](https://arxiv.org/pdf/2106.06804) <br> | AAAI | 2022 | [Github](https://github.com/pietrobarbiero/entropy-lens) |
+| [Attention-based interpretability with concept transformers](https://openreview.net/pdf?id=kAa9eDS0RdO) <br> | ICLR | 2021 | [Github](https://github.com/ibm/concept_transformer) |
 | [**Concept Bottleneck Model**](https://proceedings.mlr.press/v119/koh20a) <br> | ICML | 2020 | [Github](https://github.com/yewsiang/ConceptBottleneck) |
 | [Concept Whitening for Interpretable Image Recognition](https://arxiv.org/pdf/2002.01650) <br> | Nature MI | 2020 | [Github](https://github.com/zhiCHEN96/ConceptWhitening) |
+| [Now you see me (cme): concept-based model extraction](https://arxiv.org/pdf/2010.13233) <br> | - | 2020 | [Github](https://github.com/dmitrykazhdan/CME) |
 | <br> |  |  | Github |
 
 ### 🤖 VLM-CBMs
