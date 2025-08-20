@@ -33,13 +33,16 @@ Standard CBM framework where the data is annotated by a human expert.
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [TREE-BASED LEAKAGE INSPECTION AND CONTROL IN CONCEPT BOTTLENECK MODELS](https://arxiv.org/pdf/2410.06352) <br> | - | 2024 | [Github](https://github.com/ai4ai-lab/mixed-cbm-with-trees) |
+| [Probabilistic Concept Bottleneck Models](https://arxiv.org/pdf/2306.01574) <br> | ICML | 2023 | [Github](https://github.com/ejkim47/prob-cbm) |
+| [Interpretable neural-symbolic concept reasoning](https://arxiv.org/pdf/2304.14068) <br> | ICML | 2023 | [Github](https://github.com/pietrobarbiero/pytorch_explain) |
 | [Logic explained networks](https://arxiv.org/pdf/2108.05149) <br> | AI Elsevier | 2023 | [Github](https://github.com/pietrobarbiero/logic_explained_networks) |
-|[Interactive Concept Bottleneck Models](https://ojs.aaai.org/index.php/AAAI/article/view/25736) <br> | AAAI | 2023 | - |
-|[Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off](https://arxiv.org/pdf/2209.09056) <br> | NeurIPS | 2022 | [Github](https://github.com/mateoespinosa/cem/) |
-|[**GlanceNets: Interpretabile, Leak-proof Concept-based Models**](https://arxiv.org/pdf/2205.15612) <br> | NeurIPS | 2022 | [Github](https://github.com/ema-marconato/glancenet) |
+| [Interactive Concept Bottleneck Models](https://ojs.aaai.org/index.php/AAAI/article/view/25736) <br> | AAAI | 2023 | - |
+| [Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off](https://arxiv.org/pdf/2209.09056) <br> | NeurIPS | 2022 | [Github](https://github.com/mateoespinosa/cem/) |
+| [**GlanceNets: Interpretabile, Leak-proof Concept-based Models**](https://arxiv.org/pdf/2205.15612) <br> | NeurIPS | 2022 | [Github](https://github.com/ema-marconato/glancenet) |
 | [Post-hoc Concept Bottleneck Models](https://arxiv.org/pdf/2205.15480.pdf) <br> | ICLR | 2022 | [Github](https://github.com/mertyg/post-hoc-cbm) |
 | [Entropy-based Logic Explanations of Neural Networks](https://arxiv.org/pdf/2106.06804) <br> | AAAI | 2022 | [Github](https://github.com/pietrobarbiero/entropy-lens) |
-|[**Concept Bottleneck Model**](https://proceedings.mlr.press/v119/koh20a) <br> | ICML | 2020 | [Github](https://github.com/yewsiang/ConceptBottleneck) |
+| [**Concept Bottleneck Model**](https://proceedings.mlr.press/v119/koh20a) <br> | ICML | 2020 | [Github](https://github.com/yewsiang/ConceptBottleneck) |
+| [Concept Whitening for Interpretable Image Recognition](https://arxiv.org/pdf/2002.01650) <br> | Nature MI | 2020 | [Github](https://github.com/zhiCHEN96/ConceptWhitening) |
 | <br> |  |  | Github |
 
 ### 🤖 VLM-CBMs
