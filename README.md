@@ -32,12 +32,15 @@
 Standard CBM framework where the data is annotated by a human expert.
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [Coarse-to-fine concept bottleneck models](https://proceedings.neurips.cc/paper_files/paper/2024/file/bdeab378efe6eb289714e2a5abc6ed42-Paper-Conference.pdf) <br> | NIPS | 2024 | [Github](https://github.com/konpanousis/Coarse-To-Fine-CBMs) |
+| [Contrastive pretraining for visual concept explanations of socioeconomic outcomes](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/papers/Obadic_Contrastive_Pretraining_for_Visual_Concept_Explanations_of_Socioeconomic_Outcomes_CVPRW_2024_paper.pdf) <br> | CVPR | 2024 | [Github](https://github.com/IvicaObadic/rnc-4-visual-concept-explanations) |
 | [TREE-BASED LEAKAGE INSPECTION AND CONTROL IN CONCEPT BOTTLENECK MODELS](https://arxiv.org/pdf/2410.06352) <br> | - | 2024 | [Github](https://github.com/ai4ai-lab/mixed-cbm-with-trees) |
 | [Concept-level Debugging of Part-Prototype Networks](https://arxiv.org/pdf/2205.15769) <br> | ICLR | 2023 | [Github](https://github.com/abonte/protopdebug) |
 | [Probabilistic Concept Bottleneck Models](https://arxiv.org/pdf/2306.01574) <br> | ICML | 2023 | [Github](https://github.com/ejkim47/prob-cbm) |
 | [Interpretable neural-symbolic concept reasoning](https://arxiv.org/pdf/2304.14068) <br> | ICML | 2023 | [Github](https://github.com/pietrobarbiero/pytorch_explain) |
 | [Logic explained networks](https://arxiv.org/pdf/2108.05149) <br> | AI Elsevier | 2023 | [Github](https://github.com/pietrobarbiero/logic_explained_networks) |
 | [Learning Bottleneck Concepts in Image Classification](https://arxiv.org/pdf/2304.10131) <br> | CVPR | 2023 | [Github](https://github.com/wbw520/BotCL) |
+| [Sparse linear concept discovery models](https://openaccess.thecvf.com/content/ICCV2023W/CLVL/papers/Panousis_Sparse_Linear_Concept_Discovery_Models_ICCVW_2023_paper.pdf) <br> | ICCV-CLVL | 2023 | [Github](https://github.com/konpanousis/ConceptDiscoveryModels) |
 | [Interactive Concept Bottleneck Models](https://ojs.aaai.org/index.php/AAAI/article/view/25736) <br> | AAAI | 2023 | - |
 | [Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off](https://arxiv.org/pdf/2209.09056) <br> | NeurIPS | 2022 | [Github](https://github.com/mateoespinosa/cem/) |
 | [**GlanceNets: Interpretabile, Leak-proof Concept-based Models**](https://arxiv.org/pdf/2205.15612) <br> | NeurIPS | 2022 | [Github](https://github.com/ema-marconato/glancenet) |
@@ -63,6 +66,7 @@ Standard CBM framework where the data is annotated by a human expert.
 The framework combines a Visual-Language model to generate concept annotations.
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| <br> |  |  | Github |
 | [DCBM: Data-Efficient Visual Concept Bottleneck Models](https://arxiv.org/pdf/2412.11576) <br> | ICML | 2025 | [Github](https://github.com/KathPra/DCBM) |
 | [Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery](https://arxiv.org/pdf/2407.14499) <br> | ECCV | 2024 | [Github](https://github.com/neuroexplicit-saar/Discover-then-Name) |
 | [Incremental Residual Concept Bottleneck Models](https://arxiv.org/pdf/2404.08978) <br> | CVPR | 2024 | [Github](https://github.com/HelloSCM/Res-CBM) |
