@@ -33,6 +33,7 @@ Standard CBM framework where the data is annotated by a human expert.
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [TREE-BASED LEAKAGE INSPECTION AND CONTROL IN CONCEPT BOTTLENECK MODELS](https://arxiv.org/pdf/2410.06352) <br> | - | 2024 | [Github](https://github.com/ai4ai-lab/mixed-cbm-with-trees) |
+| [Concept-level Debugging of Part-Prototype Networks](https://arxiv.org/pdf/2205.15769) <br> | ICLR | 2023 | [Github](https://github.com/abonte/protopdebug) |
 | [Probabilistic Concept Bottleneck Models](https://arxiv.org/pdf/2306.01574) <br> | ICML | 2023 | [Github](https://github.com/ejkim47/prob-cbm) |
 | [Interpretable neural-symbolic concept reasoning](https://arxiv.org/pdf/2304.14068) <br> | ICML | 2023 | [Github](https://github.com/pietrobarbiero/pytorch_explain) |
 | [Logic explained networks](https://arxiv.org/pdf/2108.05149) <br> | AI Elsevier | 2023 | [Github](https://github.com/pietrobarbiero/logic_explained_networks) |
@@ -40,15 +41,20 @@ Standard CBM framework where the data is annotated by a human expert.
 | [Interactive Concept Bottleneck Models](https://ojs.aaai.org/index.php/AAAI/article/view/25736) <br> | AAAI | 2023 | - |
 | [Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off](https://arxiv.org/pdf/2209.09056) <br> | NeurIPS | 2022 | [Github](https://github.com/mateoespinosa/cem/) |
 | [**GlanceNets: Interpretabile, Leak-proof Concept-based Models**](https://arxiv.org/pdf/2205.15612) <br> | NeurIPS | 2022 | [Github](https://github.com/ema-marconato/glancenet) |
+| [Concept Bottleneck Model with Additional Unsupervised Concepts](https://arxiv.org/pdf/2202.01459) <br> | IEEE | 2022 | - |
 | [Interpretable Image Classification with Differentiable Prototypes Assignment](https://arxiv.org/pdf/2112.02902) <br> | ECCV | 2022 | [Github](https://github.com/gmum/ProtoPool) |
+| [Deformable ProtoPNet: An Interpretable Image Classifier Using Deformable Prototypes](https://arxiv.org/pdf/2111.15000) <br> | CVPR | 2022 | [Github](https://github.com/jdonnelly36/Deformable-ProtoPNet) |
+| [A Framework for Learning Ante-hoc Explainable Models via Concepts](https://arxiv.org/pdf/2108.11761) <br> | CVPR | 2022 | - |
 | [Post-hoc Concept Bottleneck Models](https://arxiv.org/pdf/2205.15480.pdf) <br> | ICLR | 2022 | [Github](https://github.com/mertyg/post-hoc-cbm) |
 | [Entropy-based Logic Explanations of Neural Networks](https://arxiv.org/pdf/2106.06804) <br> | AAAI | 2022 | [Github](https://github.com/pietrobarbiero/entropy-lens) |
 | [Attention-based interpretability with concept transformers](https://openreview.net/pdf?id=kAa9eDS0RdO) <br> | ICLR | 2021 | [Github](https://github.com/ibm/concept_transformer) |
 | [SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers](https://arxiv.org/pdf/2103.12279) <br> | - | 2021 | [Github](https://github.com/dheerajrajagopal/SelfExplain) |
+| [ProtoPShare: Prototype Sharing for Interpretable Image Classification and Similarity Discovery](https://arxiv.org/pdf/2011.14340) <br> | ACM KDD | 2021 | [Github](https://github.com/gmum/ProtoPShare) |
 | [**Concept Bottleneck Model**](https://proceedings.mlr.press/v119/koh20a) <br> | ICML | 2020 | [Github](https://github.com/yewsiang/ConceptBottleneck) |
 | [Concept Whitening for Interpretable Image Recognition](https://arxiv.org/pdf/2002.01650) <br> | Nature MI | 2020 | [Github](https://github.com/zhiCHEN96/ConceptWhitening) |
 | [Now you see me (cme): concept-based model extraction](https://arxiv.org/pdf/2010.13233) <br> | - | 2020 | [Github](https://github.com/dmitrykazhdan/CME) |
 | [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://arxiv.org/pdf/1806.10574) <br> | NIPS | 2019 | [Github](https://github.com/cfchen-duke/ProtoPNet) |
+| [Interpretable Image Recognition with Hierarchical Prototypes](https://arxiv.org/pdf/1906.10651) <br> | AAAI | 2019 | [Github](https://github.com/peterbhase/interpretable-image) |
 | [Towards Robust Interpretability with Self-Explaining Neural Networks](https://arxiv.org/pdf/1806.07538) <br> | NIPS | 2018 | [Github](https://github.com/AmanDaVinci/SENN?tab=readme-ov-file#documentation) |
 | [Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions](https://arxiv.org/pdf/1710.04806) <br> | AAAI | 2018 | [Github](https://github.com/OscarcarLi/PrototypeDL) |
 | <br> |  |  | Github |
