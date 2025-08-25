@@ -89,14 +89,12 @@ The framework combines a Visual-Language model to generate concept annotations.
 
 ## 📖 Awesome Surveys
 ### Survey on Concept Based Models
-- [Title](link) + year
 - [Concept-based Explainable Artificial Intelligence: A Survey
 ](https://arxiv.org/pdf/2312.12936.pdf) 2023
 - [A Comprehensive Survey on Self-Interpretable Neural Networks](https://arxiv.org/pdf/2501.15638) 2025
 
 
 ## 👩‍🏫 Awesome Workshops & Talks
-- [title](link) [Workshop/Talk] + detail + venue + year
 
 ## 📊 Awesome Metrics & Benchmarks
 
