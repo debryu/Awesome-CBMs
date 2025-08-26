@@ -32,7 +32,9 @@
 Standard CBM framework where the data is annotated by a human expert.
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [Interpretable Reward Modeling with Active Concept Bottlenecks](https://arxiv.org/pdf/2507.04695) <br> | ICML | 2025 | [Github](https://github.com/sonialagunac/cb-rm-workshop) |
 | [Coarse-to-fine concept bottleneck models](https://proceedings.neurips.cc/paper_files/paper/2024/file/bdeab378efe6eb289714e2a5abc6ed42-Paper-Conference.pdf) <br> | NIPS | 2024 | [Github](https://github.com/konpanousis/Coarse-To-Fine-CBMs) |
+| [Stochastic Concept Bottleneck Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/5c7894ac8788555f1cecf536f1e0fd35-Paper-Conference.pdf) <br> | NIPS | 2024 | [Github](https://github.com/mvandenhi/SCBM) |
 | [Contrastive pretraining for visual concept explanations of socioeconomic outcomes](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/papers/Obadic_Contrastive_Pretraining_for_Visual_Concept_Explanations_of_Socioeconomic_Outcomes_CVPRW_2024_paper.pdf) <br> | CVPR | 2024 | [Github](https://github.com/IvicaObadic/rnc-4-visual-concept-explanations) |
 | [TREE-BASED LEAKAGE INSPECTION AND CONTROL IN CONCEPT BOTTLENECK MODELS](https://arxiv.org/pdf/2410.06352) <br> | - | 2024 | [Github](https://github.com/ai4ai-lab/mixed-cbm-with-trees) |
 | [Concept-level Debugging of Part-Prototype Networks](https://arxiv.org/pdf/2205.15769) <br> | ICLR | 2023 | [Github](https://github.com/abonte/protopdebug) |
@@ -81,6 +83,7 @@ The framework combines a Visual-Language model to generate concept annotations.
 ## 🔬 Discussions and Analysis
 |  Title  |     Focus     |  Venue  |   Date   |   Code   |
 |:--------|:-------------:|:-------:|:--------:|:--------:|
+| [Measuring Leakage In Concept-Based Methods: An Information Theoretic Approach](https://arxiv.org/pdf/2504.09459) <br> | Leakage | ICLR | 2025 | - |
 | [If Concept Bottlenecks are the Question, are Foundation Models the Answer?](https://arxiv.org/pdf/2504.19774) <br> | Concept Quality |  | 2025 | [Github](https://github.com/debryu/CQA) |
 | [Overlooked Factors in Concept-based Explanations: Dataset Choice, Concept Learnability, and Human Capability](https://arxiv.org/pdf/2207.09615) <br> | Interpretability | CVPR | 2023 | [Github](https://github.com/princetonvisualai/OverlookedFactors) |
 | [A closer look at the intervention procedure of concept bottleneck models](https://arxiv.org/pdf/2302.14260.pdf) <br> | Interventions | ICML | 2023 | [Github](https://github.com/ssbin4/Closer-Intervention-CBM) |
