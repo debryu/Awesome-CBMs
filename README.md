@@ -14,9 +14,10 @@
   </ul>
 <li><a href="#-discussions-and-analysis">🔬 Discussions and Analysis Papers</a></li>
 <li><a href="#-awesome-surveys">📖 Awesome Surveys</a></li>
-<li><a href="#-awesome-workshops--talks">👩‍🏫 Awesome Workshops & Talks</a></li>
+<li><a href="#-awesome-workshops--talks">🛠️ Awesome Workshops & Talks</a></li>
 <li><a href="#-awesome-metrics--benchmarks">📊 Awesome Metrics & Benchmarks</a></li>
 <li><a href="#-awesome-datasets">💾 Awesome Datasets</a></li>
+<li><a href="#-awesome-research-groups">👩‍🏫 Awesome Research Groups</a></li>
 </ol>
 </details>
 
@@ -101,8 +102,10 @@ The framework combines a Visual-Language model to generate concept annotations.
 - [A Comprehensive Survey on Self-Interpretable Neural Networks](https://arxiv.org/pdf/2501.15638) 2025
 
 
-## 👩‍🏫 Awesome Workshops & Talks
+## 🛠️ Awesome Workshops & Talks
 
 ## 📊 Awesome Metrics & Benchmarks
 
 ## 💾 Awesome Datasets
+
+## 👩‍🏫 Awesome Research Groups
