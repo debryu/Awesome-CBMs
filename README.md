@@ -86,10 +86,10 @@ The framework combines a Visual-Language model to generate concept annotations.
 ## 🔬 Discussions and Analysis
 |  Title  |     Focus     |  Venue  |   Date   |   Code   |
 |:--------|:-------------:|:-------:|:--------:|:--------:|
-| [Concept Correlation and Its Effects on Concept-Based Models](https://openaccess.thecvf.com/content/WACV2023/papers/Heidemann_Concept_Correlation_and_Its_Effects_on_Concept-Based_Models_WACV_2023_paper.pdf) <br> | Entanglement | WACV | 2023 | - |
 | [SUB: Benchmarking CBM Generalization via Synthetic Attribute Substitutions](https://arxiv.org/pdf/2507.23784) <br> | Generalization | ICCV | 2025 | [Github](https://github.com/ExplainableML/sub) |
 | [Measuring Leakage In Concept-Based Methods: An Information Theoretic Approach](https://arxiv.org/pdf/2504.09459) <br> | Leakage | ICLR | 2025 | - |
 | [If Concept Bottlenecks are the Question, are Foundation Models the Answer?](https://arxiv.org/pdf/2504.19774) <br> | Concept Quality |  | 2025 | [Github](https://github.com/debryu/CQA) |
+| [Concept Correlation and Its Effects on Concept-Based Models](https://openaccess.thecvf.com/content/WACV2023/papers/Heidemann_Concept_Correlation_and_Its_Effects_on_Concept-Based_Models_WACV_2023_paper.pdf) <br> | Entanglement | WACV | 2023 | - |
 | [Overlooked Factors in Concept-based Explanations: Dataset Choice, Concept Learnability, and Human Capability](https://arxiv.org/pdf/2207.09615) <br> | Interpretability | CVPR | 2023 | [Github](https://github.com/princetonvisualai/OverlookedFactors) |
 | [A closer look at the intervention procedure of concept bottleneck models](https://arxiv.org/pdf/2302.14260.pdf) <br> | Interventions | ICML | 2023 | [Github](https://github.com/ssbin4/Closer-Intervention-CBM) |
 | [IS DISENTANGLEMENT ALL YOU NEED? COMPARING CONCEPT-BASED & DISENTANGLEMENT APPROACHES](https://arxiv.org/pdf/2104.06917) <br> | Entanglement | ICLR | 2021 | [Github](https://github.com/dmitrykazhdan/concept-based-xai) |
