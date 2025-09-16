@@ -110,5 +110,6 @@ The framework combines a Visual-Language model to generate concept annotations.
 ## 📊 Awesome Metrics & Benchmarks
 
 ## 💾 Awesome Datasets
+- [SUB](https://huggingface.co/datasets/Jessica-bader/SUB)
 
 ## 👩‍🏫 Awesome Research Groups
