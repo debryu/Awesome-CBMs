@@ -86,6 +86,7 @@ The framework combines a Visual-Language model to generate concept annotations.
 ## 🔬 Discussions and Analysis
 |  Title  |     Focus     |  Venue  |   Date   |   Code   |
 |:--------|:-------------:|:-------:|:--------:|:--------:|
+| [Concept Correlation and Its Effects on Concept-Based Models](https://openaccess.thecvf.com/content/WACV2023/papers/Heidemann_Concept_Correlation_and_Its_Effects_on_Concept-Based_Models_WACV_2023_paper.pdf) <br> | Entanglement | WACV | 2023 | - |
 | [SUB: Benchmarking CBM Generalization via Synthetic Attribute Substitutions](https://arxiv.org/pdf/2507.23784) <br> | Generalization | ICCV | 2025 | [Github](https://github.com/ExplainableML/sub) |
 | [Measuring Leakage In Concept-Based Methods: An Information Theoretic Approach](https://arxiv.org/pdf/2504.09459) <br> | Leakage | ICLR | 2025 | - |
 | [If Concept Bottlenecks are the Question, are Foundation Models the Answer?](https://arxiv.org/pdf/2504.19774) <br> | Concept Quality |  | 2025 | [Github](https://github.com/debryu/CQA) |
@@ -95,7 +96,7 @@ The framework combines a Visual-Language model to generate concept annotations.
 | [Do Concept Bottleneck Models learn as intended](https://arxiv.org/abs/2105.04289) <br> | Alignment | ICLR | 2021 | - |
 | [Promises and Pitfalls of Black-Box Concept Learning Models](https://arxiv.org/pdf/2106.13314.pdf)  <br> | Entanglement, Leakage | - | 2021 | - |
 | [ON COMPLETENESS-AWARE CONCEPT-BASED EXPLANATIONS IN DEEP NEURAL NETWORKS](https://arxiv.org/pdf/1910.07969) <br> | Completeness | NeurIPS | 2020 | [Github](https://github.com/chihkuanyeh/concept_exp) |
-| <br> |  |  |  | Github |
+
 
 
 ## 📖 Awesome Surveys
