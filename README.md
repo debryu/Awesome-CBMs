@@ -69,7 +69,8 @@ Standard CBM framework where the data is annotated by a human expert.
 The framework combines a Visual-Language model to generate concept annotations.
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
-| <br> |  |  | Github |
+| [Improving ARDS Diagnosis Through Context-Aware Concept Bottleneck Models](https://arxiv.org/pdf/2508.09719) <br> |  |  | Github |
+| [Locality-aware Concept Bottleneck Model](https://arxiv.org/pdf/2508.14562) <br> |  |  | Github |
 | [DCBM: Data-Efficient Visual Concept Bottleneck Models](https://arxiv.org/pdf/2412.11576) <br> | ICML | 2025 | [Github](https://github.com/KathPra/DCBM) |
 | [Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery](https://arxiv.org/pdf/2407.14499) <br> | ECCV | 2024 | [Github](https://github.com/neuroexplicit-saar/Discover-then-Name) |
 | [Incremental Residual Concept Bottleneck Models](https://arxiv.org/pdf/2404.08978) <br> | CVPR | 2024 | [Github](https://github.com/HelloSCM/Res-CBM) |
@@ -85,6 +86,7 @@ The framework combines a Visual-Language model to generate concept annotations.
 ## 🔬 Discussions and Analysis
 |  Title  |     Focus     |  Venue  |   Date   |   Code   |
 |:--------|:-------------:|:-------:|:--------:|:--------:|
+| [SUB: Benchmarking CBM Generalization via Synthetic Attribute Substitutions](https://arxiv.org/pdf/2507.23784) <br> | Generalization | ICCV | 2025 | [Github](https://github.com/ExplainableML/sub) |
 | [Measuring Leakage In Concept-Based Methods: An Information Theoretic Approach](https://arxiv.org/pdf/2504.09459) <br> | Leakage | ICLR | 2025 | - |
 | [If Concept Bottlenecks are the Question, are Foundation Models the Answer?](https://arxiv.org/pdf/2504.19774) <br> | Concept Quality |  | 2025 | [Github](https://github.com/debryu/CQA) |
 | [Overlooked Factors in Concept-based Explanations: Dataset Choice, Concept Learnability, and Human Capability](https://arxiv.org/pdf/2207.09615) <br> | Interpretability | CVPR | 2023 | [Github](https://github.com/princetonvisualai/OverlookedFactors) |
