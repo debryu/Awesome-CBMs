@@ -86,6 +86,8 @@ The framework combines a Visual-Language model to generate concept annotations.
 ## 🔬 Discussions and Analysis
 |  Title  |     Focus     |  Venue  |   Date   |   Code   |
 |:--------|:-------------:|:-------:|:--------:|:--------:|
+| [Enhancing Concept Localization in CLIP-based Concept
+Bottleneck Models](https://arxiv.org/pdf/2510.07115) <br> | Entanglement | - | 2025 | - |
 | [SUB: Benchmarking CBM Generalization via Synthetic Attribute Substitutions](https://arxiv.org/pdf/2507.23784) <br> | Generalization | ICCV | 2025 | [Github](https://github.com/ExplainableML/sub) |
 | [Measuring Leakage In Concept-Based Methods: An Information Theoretic Approach](https://arxiv.org/pdf/2504.09459) <br> | Leakage | ICLR | 2025 | - |
 | [If Concept Bottlenecks are the Question, are Foundation Models the Answer?](https://arxiv.org/pdf/2504.19774) <br> | Concept Quality |  | 2025 | [Github](https://github.com/debryu/CQA) |
