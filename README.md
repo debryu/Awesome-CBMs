@@ -45,7 +45,7 @@ Standard CBM framework where the data is annotated by a human expert.
 | [Learning Bottleneck Concepts in Image Classification](https://arxiv.org/pdf/2304.10131) <br> | CVPR | 2023 | [Github](https://github.com/wbw520/BotCL) |
 | [Sparse linear concept discovery models](https://openaccess.thecvf.com/content/ICCV2023W/CLVL/papers/Panousis_Sparse_Linear_Concept_Discovery_Models_ICCVW_2023_paper.pdf) <br> | ICCV-CLVL | 2023 | [Github](https://github.com/konpanousis/ConceptDiscoveryModels) |
 | [Interactive Concept Bottleneck Models](https://ojs.aaai.org/index.php/AAAI/article/view/25736) <br> | AAAI | 2023 | - |
-| [Addressing leakage in concept bottleneck models]([https://arxiv.org/pdf/2209.09056](https://proceedings.neurips.cc/paper_files/paper/2022/file/944ecf65a46feb578a43abfd5cddd960-Paper-Conference.pdf)) <br> | NeurIPS | 2022 | [Github](https://github.com/dtak/addressing-leakage) |
+| [Addressing leakage in concept bottleneck models]([https://arxiv.org/pdf/2209.09056](https://proceedings.neurips.cc/paper_files/paper/2022/file/944ecf65a46feb578a43abfd5cddd960-Paper-Conference.pdf) <br> | NeurIPS | 2022 | [Github](https://github.com/dtak/addressing-leakage) |
 | [Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off](https://arxiv.org/pdf/2209.09056) <br> | NeurIPS | 2022 | [Github](https://github.com/mateoespinosa/cem/) |
 | [**GlanceNets: Interpretabile, Leak-proof Concept-based Models**](https://arxiv.org/pdf/2205.15612) <br> | NeurIPS | 2022 | [Github](https://github.com/ema-marconato/glancenet) |
 | [Concept Bottleneck Model with Additional Unsupervised Concepts](https://arxiv.org/pdf/2202.01459) <br> | IEEE | 2022 | - |
